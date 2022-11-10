@@ -1,0 +1,4 @@
+El registro con nombre: Pablo Gradolph Oliva y DNI: 02751517G se ha insertado correctamente el día 2022-08-20 20:33:33
+El registro con nombre: Ana Menendez de los Reyes y DNI: 55874558Z se ha insertado correctamente el día 2022-08-20 20:35:08
+El registro con nombre: Juan López Lozano y DNI: 15421452K se ha insertado correctamente el día 2022-08-20 20:37:09
+El registro con nombre: Juan Ángel López y DNI: 41254785F se ha insertado correctamente el día 2022-08-20 20:38:47

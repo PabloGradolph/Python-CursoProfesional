@@ -1,0 +1,7 @@
+El registro con nombre: Juan López Lozano no se ha insertado correctamente debido a insertar más de 8 números en su DNI. Ocurre el día 2022-08-20 20:36:32
+El registro con nombre: Juan Ángel López no se ha insertado correctamente debido a utilizar un teléfono no válido: 685. Ocurre el día 2022-08-20 21:27:22
+El registro con nombre: Juan Ángel López no se ha insertado correctamente debido a utilizar un teléfono no válido: 5484. Ocurre el día 2022-08-20 21:29:20
+El registro con nombre: f f no se ha insertado correctamente debido a insertar más de 8 números en su DNI. Ocurre el día 2022-08-23 20:32:13
+El registro con nombre: f f no se ha insertado correctamente debido a insertar más de 8 números en su DNI. Ocurre el día 2022-08-23 20:32:16
+El registro con nombre: f f no se ha insertado correctamente debido a insertar más de 8 números en su DNI. Ocurre el día 2022-08-23 20:32:17
+El registro con nombre: f f no se ha insertado correctamente debido a insertar más de 8 números en su DNI. Ocurre el día 2022-08-23 20:32:17

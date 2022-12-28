@@ -13,3 +13,5 @@ Material proporcionado por el profesor: Contiene lo que el profesor nos fue dand
 POO: Es una carpeta en la que encontrarás información acerca de la programación orientada a objetos en Python (no es del curso pero la hice porque me vino bien para los ejercicios).
 
 PROYECTO FIN DE CURSO: Contiene el ejercicio propuesto como proyecto de fin de curso.
+
+<a href="https://asociacionaepi.es/" target="blank">ENLACE A LA ASOCIACIÓN

@@ -10,7 +10,7 @@ Repositorio en el que se encuentra mi curso profesional de Python completo:
 
 ## Contenidos: 🧑🏻‍🏫
 
-💼 Pdf con todos los contenidos del curso: 
+💼 <a href="curso-profesional-de-Python.pdf">Pdf con todos los contenidos del curso</a>
 
   - CLASES: Contiene los archivos que fui creando a medida que el profesor imartía las clases.
 
@@ -23,3 +23,6 @@ Repositorio en el que se encuentra mi curso profesional de Python completo:
   - PROYECTO FIN DE CURSO: Contiene el ejercicio propuesto como proyecto de fin de curso.
 
 ## Enlace a la asociación: :link:
+<p align="center">
+<a href="https://asociacionaepi.es/" target="_blank"><img align="center" src="aepi.png" alt="AEPI" height="200" width="300" /></a>
+</p>
